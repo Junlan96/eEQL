@@ -10,20 +10,20 @@ from eql import eql
 import os
 import numpy as np
 
+
+func_name = "waveform-21"
+
+
 # parameters
 var_names = ["x1", "x2", "x3", "x4", "x5", "x6", "x7", "x8","x9","x10",
              "x11", "x12", "x13", "x14", "x15", "x16", "x17", "x18","x19","x20",
              "x21", "x22", "x23", "x24", "x25", "x26", "x27", "x28","x29","x30",
              "x31", "x32", "x33", "x34", "x35", "x36", "x37", "x38","x39","x40"]
 
-func = lambda x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15,x16,x17,x18,x19,x20,x21:  x1
 
 
 
-func_name = "waveform-21"
-
-
-n_gen = 2
+n_gen = 10000
 n_pop = 10
 eq_list = {}
 
@@ -75,7 +75,6 @@ def gep_simple(var_dim, func_name, population,n_generations, n_elites=1):
             # **********evaluate**********
             if(Flag==True):
                 eq_list[ind], population[ind].fitness.values = eql(var_dim, func_name, trials=1, Dim=Dim,Var_names=var_names)
-
 
 
             else:
