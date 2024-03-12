@@ -14,9 +14,11 @@ Regression"
 
 
 ## File descriptions
-GEP.py     The core code of GEP
-eql.py     The core code of eql network
-main.py    The test code of eEQL
+GEP.py  -----    The core code of GEP
+
+eql.py   -----    The core code of eql network
+
+main.py  -----   The test code of eEQL
 
 
 
