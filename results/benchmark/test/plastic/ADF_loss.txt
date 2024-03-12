@@ -1,0 +1,10024 @@
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.596160		2.079492
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.518180		2.072612
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.454476		2.114021
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.627480		3.177880
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.932061		2.327672
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.607467		2.124424
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.768658		2.295039
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.593413		2.127753
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.549906		2.075526
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.453075		2.088603
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.561194		2.095098
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.885218		2.399174
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.480343		2.078023
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.563347		2.170642
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+4.514410		3.611819
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.632797		2.180569
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.782887		2.306236
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.482480		2.113648
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.654181		2.076449
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.526724		2.118373
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.738387		2.107770
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.171479		2.703192
+
+2.411824		2.087595
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.940311		2.227782
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.723454		2.144120
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.606514		2.340799
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.683717		2.097499
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.658155		2.787703
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.636602		2.114348
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.408263		2.093726
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+7.125210		9.797790
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+8.429354		8.021924
+
+inf		inf
+
+2.676626		2.326815
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.686842		3.361718
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.274125		2.778789
+
+3.462583		2.722723
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.546252		2.141573
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.629906		3.434818
+
+inf		inf
+
+2.713148		2.206109
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.597676		2.108127
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.629995		3.452045
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+5.459314		3.638747
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.740868		3.182921
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.517437		2.082879
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.518638		2.148252
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.329921		2.623857
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.671287		2.109422
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+4.081280		4.258432
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.679290		2.343039
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.809090		2.986704
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.429878		2.076404
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.491637		2.110873
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.476102		2.110631
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.729106		2.189165
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.475130		2.091393
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.401721		2.089226
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+6.200294		5.436373
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+4.249537		3.906136
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.613274		2.108202
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.822391		2.824980
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.464362		2.076509
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.491575		2.133747
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.892048		2.341119
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.962935		2.429328
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+4.103537		3.244167
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.623332		2.311803
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.462235		2.113802
+
+inf		inf
+
+2.798790		2.122625
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.511585		2.091839
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.495795		2.093243
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.148851		2.448841
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.503811		3.321236
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.607780		2.095436
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.792880		2.350196
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.564808		2.163564
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.500904		2.082755
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.630785		2.103726
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.033337		2.535975
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+8.064765		5.385176
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.600501		2.131630
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.149158		2.776103
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.758285		2.284958
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.457925		2.050133
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+3.066928		2.764711
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.486032		2.106518
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.593181		2.400242
+
+2.462963		2.083696
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.684080		2.231850
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+2.507343		2.088062
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
+inf		inf
+
